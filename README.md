@@ -1,4 +1,4 @@
-<!-- [![Build status](https://ci.appveyor.com/api/projects/status/oiabbreq4s8uaqx9?svg=true)](https://ci.appveyor.com/project/Zicio/films) -->
+[![Build status](https://ci.appveyor.com/api/projects/status/2g3ro49p31rwqcwk?svg=true)](https://ci.appveyor.com/project/Zicio/films)
 
 [Ссылка на GP](https://zicio.github.io/films/)
 
